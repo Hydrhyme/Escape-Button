@@ -1,0 +1,12 @@
+C:\Users\ensar\OneDrive\Masaüstü\Kaçan Buton\Kaçan Buton\Kaçan Buton\bin\Debug\Kaçan Buton.exe.config
+C:\Users\ensar\OneDrive\Masaüstü\Kaçan Buton\Kaçan Buton\Kaçan Buton\bin\Debug\Kaçan Buton.exe
+C:\Users\ensar\OneDrive\Masaüstü\Kaçan Buton\Kaçan Buton\Kaçan Buton\bin\Debug\Kaçan Buton.pdb
+C:\Users\ensar\OneDrive\Masaüstü\Kaçan Buton\Kaçan Buton\Kaçan Buton\bin\Debug\MaterialSkin.dll
+C:\Users\ensar\OneDrive\Masaüstü\Kaçan Buton\Kaçan Buton\Kaçan Buton\obj\Debug\Kaçan Buton.csproj.AssemblyReference.cache
+C:\Users\ensar\OneDrive\Masaüstü\Kaçan Buton\Kaçan Buton\Kaçan Buton\obj\Debug\Kaçan_Buton.Form1.resources
+C:\Users\ensar\OneDrive\Masaüstü\Kaçan Buton\Kaçan Buton\Kaçan Buton\obj\Debug\Kaçan_Buton.Properties.Resources.resources
+C:\Users\ensar\OneDrive\Masaüstü\Kaçan Buton\Kaçan Buton\Kaçan Buton\obj\Debug\Kaçan Buton.csproj.GenerateResource.cache
+C:\Users\ensar\OneDrive\Masaüstü\Kaçan Buton\Kaçan Buton\Kaçan Buton\obj\Debug\Kaçan Buton.csproj.CoreCompileInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\Kaçan Buton\Kaçan Buton\Kaçan Buton\obj\Debug\Kaçan Bu.6D2E5BA1.Up2Date
+C:\Users\ensar\OneDrive\Masaüstü\Kaçan Buton\Kaçan Buton\Kaçan Buton\obj\Debug\Kaçan Buton.exe
+C:\Users\ensar\OneDrive\Masaüstü\Kaçan Buton\Kaçan Buton\Kaçan Buton\obj\Debug\Kaçan Buton.pdb
